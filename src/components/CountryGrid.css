@@ -1,0 +1,41 @@
+/* src/components/CountryGrid.css */
+.country-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 56px;
+  padding: 16px;
+}
+
+/* 
+ .country-card {
+  background-color: #2b3743;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  border-radius: 8px;
+}  */
+
+.country-card {
+  background-color: #2b3743;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 0px;
+  border-radius: 0; /* Set border-radius to 0 for square edges */
+}
+
+.country-flag {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+
+.card-grid {
+  gap: 16px;
+  padding: 16px;
+}
+
+.card-grid h3,
+.card-grid p {
+  color: #fff;
+  margin: 0px;
+  padding: 0px;
+}

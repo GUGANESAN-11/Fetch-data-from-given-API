@@ -1,0 +1,13 @@
+body{
+  background-color: #212d39 !important;
+}
+.App {
+    background-color: #fff; /* Light mode background color */
+    color: #000; /* Light mode text color */
+    padding: 20px;
+  }
+
+  .App {
+    text-align: center;
+    padding: 20px;
+  }

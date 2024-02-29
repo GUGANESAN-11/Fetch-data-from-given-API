@@ -1,0 +1,29 @@
+.nav-container{
+    background-color: #2b3743;
+    display: flex;
+    justify-content: space-between;
+    align-items: center !important;
+    height: 60px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.nav-container {
+    margin: 0px;
+    padding: 0px;
+}
+.nav-container{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-container p{
+    margin: 0px;
+}
+h1 {
+    color: white;
+    height: 1cm;
+  }
+
+p {
+    margin: 5px;
+    padding: 5px;
+    color:white;
+}
